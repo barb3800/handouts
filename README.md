@@ -30,5 +30,5 @@ to this "handouts" folder. The result should be a subdirectory called
 
 ## Collaborators
 
--Nicole Barbour
+-Nicole Barbour (University of Maryland Center for Environmental Science)
 -Sara Cannon (University of British Columbia)
