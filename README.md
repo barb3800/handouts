@@ -31,4 +31,4 @@ to this "handouts" folder. The result should be a subdirectory called
 ## Collaborators
 
 -Nicole Barbour
--Sara Cannon
+-Sara Cannon (University of British Columbia)
